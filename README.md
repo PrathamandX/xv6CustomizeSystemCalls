@@ -1,25 +1,8 @@
 # xv6-riscv Operating System Customization Project
 
-This repository documents an academic operating systems project completed at **IIT (ISM) Dhanbad, Department of Computer Science and Engineering**.  
-The project is centered on **xv6-riscv**, a compact Unix-like teaching operating system used to understand core kernel design ideas in a practical way. Instead of only studying theory, the team extended xv6 by adding new system calls and kernel behaviors, and then verified the work through user-level test programs.
+The project is centered on **xv6-riscv**, a compact Unix-like teaching operating system used to understand core kernel design ideas in a practical way.
 
----
 
-## Course and Team Information
-
-- **Course:** Operating Systems Lab (NSCS210)  
-- **Instructor:** Jaishree Mayank Mam
-
-**Team Members**
-
-- Prathamesh Vispute
-- Pranjul
-- Prathyush P
-- Punit
-- Poka Sireesha
-- Prabir Soren
-
----
 
 ## Introduction
 
